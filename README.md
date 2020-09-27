@@ -1,0 +1,1 @@
+# Random-Number-Generator-as-1-2-Digits-without-rand-
